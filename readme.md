@@ -142,7 +142,9 @@ This repository is licensed under the Apache 2.0 License. See the `LICENSE` file
 
 - **Book Updates and Code Samples**: Subscribe for updates and new content at [james.karanja@zavora.ai](mailto:james.karanja@zavora.ai).
 - **Community Discussions**: Join the conversation on LangGraph workflows, agent designs, and AI tools.
-- **LangGraph Documentation**: [Official LangGraph Docs](https://langgraph.docs.example)
+
+
+
 
 
 
